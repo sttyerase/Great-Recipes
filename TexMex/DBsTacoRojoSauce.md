@@ -18,7 +18,7 @@ Quantity        |    Ingredient
 1/2 tsp         | cumin
 2 Tblsp         | lemon juice
 2 12 oz cans    | tomato paste
-                | jalepeno peppers to taste
+1               | jalepeno peppers to taste
 
 ##### Preparation:
 
