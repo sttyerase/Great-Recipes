@@ -17,6 +17,7 @@ Quantity        |    Ingredient
 1 bunch         | green onions
 2 tsp.          | Asian sesame oil
 
+##### Preparation:
 Brown meat over medium heat, crumbling with spoon.  Add onion, garlic, soy sauce, hoisin sauce,
 ginger, vineagar, and chili sauce.  Cook until meat is crumbled and brown.
 
