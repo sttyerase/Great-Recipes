@@ -20,6 +20,8 @@ Quantity        |    Ingredient
 2 12 oz cans    | tomato paste
                 | jalepeno peppers to taste
 
+##### Preparation:
+
 Cook tomates, garlic and chili powder together, bringing to a simmering boil.  Process
 cooked tomates through a food mill for the juice.
 
@@ -31,3 +33,4 @@ and lemon juice just prior to canning the sauce.  Bring the sauce back to simmer
 Process the sauce in a water bath canner for at least 10 minutes.  Remove jars and
 allow to cool slowly.
 
+Makes approx. 6 - 8 pints of sauce.
