@@ -1,5 +1,5 @@
 
-## TEX-MEX RIBS
+## Southwestern Style Pork Ribs
 
 1 Pkg. Western Style pork ribs
 
