@@ -21,5 +21,7 @@ Quantity        |    Ingredient
 Brown meat over medium heat, crumbling with spoon.  Add onion, garlic, soy sauce, hoisin sauce,
 ginger, vineagar, and chili sauce.  Cook until meat is crumbled and brown.
 
-Add water chestnuts and green onions to skillet.  Cook until onions start to wilt, about 
+Add water chestnuts and green onions to skillet.  Cook until onions start to wilt, about
 2 minutes.  Stir in sesame oil.  spoon meat mixture into lettuce leaves and eat like a taco.
+
+* This is a copy. Original recipe found here:  https://www.allrecipes.com/recipe/71722/asian-lettuce-wraps/
