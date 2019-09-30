@@ -22,7 +22,7 @@ and milk, and season with salt and white pepper.  Bring to a boil, reduce heat
 to low, and simmer about 10 minutes.
 
 Bring a pot of lightly salted water to a boil.  Place the broccoli in the
-boiling water, and cook 2 minute, or until just tender. Remove from heat, drain
+boiling water, and cook 2 minutes, or until just tender. Remove from heat, drain
 and set aside.
 
 Gradually mix the processed cheese and cheddar cheese into the large pot until
