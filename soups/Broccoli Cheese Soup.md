@@ -13,7 +13,7 @@ Quantity        |    Ingredient
 1-1/2 tsp.      | white pepper
 5 cups          | fresh broccoli florets
 1-1/2 lbs.      | processed cheese, shredded
-3 cups          | cheddar cheese, shredded
+3 cups          | cheddar cheese, shredded**
 
 ##### Preparation:
 Melt the butter in a large pot over medium heat, and mix in the flour.  Reduce
@@ -28,5 +28,7 @@ and set aside.
 Gradually mix the processed cheese and cheddar cheese into the large pot until
 melted.  Mix in the broccoli.  Continue cooking about 5 minutes.
 
-* This is a copy. Original recipe found here:  https://www.allrecipes.com/recipe/70579/excellent-broccoli-cheese-soup/
+*This is a copy. Original recipe found here:  https://www.allrecipes.com/recipe/70579/excellent-broccoli-cheese-soup/
 
+**Hint: substitute 1-1/2 cups of smoked cheddar cheese for half of the cheddar cheese for a wonderful
+smoky flavor. (my own hint)
