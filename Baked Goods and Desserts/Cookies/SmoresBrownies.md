@@ -28,4 +28,4 @@ pinch           | kosher salt
 6. Use the parchment paper to remove the brownies from the pan and cut into even squares.
 
 
-* This is a copy. Original recipe found here:  https://weelicious.com/2017/01/19/smores-cakey-black-bean-brownies-recipe/
+*This is a copy. Original recipe found here:  https://weelicious.com/2017/01/19/smores-cakey-black-bean-brownies-recipe/
