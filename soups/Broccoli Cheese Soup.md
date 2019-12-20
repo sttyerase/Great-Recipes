@@ -1,6 +1,6 @@
 
 
-## Excellent Broccoli Cheese Soup
+## Excellent Broccoli Cheese Soup*
 
 ##### Ingredients:
 Quantity        |    Ingredient
@@ -27,3 +27,6 @@ and set aside.
 
 Gradually mix the processed cheese and cheddar cheese into the large pot until
 melted.  Mix in the broccoli.  Continue cooking about 5 minutes.
+
+* This is a copy. Original recipe found here:  https://www.allrecipes.com/recipe/70579/excellent-broccoli-cheese-soup/
+
