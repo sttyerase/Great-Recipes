@@ -17,7 +17,7 @@ Quantity        |    Ingredient
 1 tsp           | dried basil
 1 tblsp         | chili powder
 1 tblsp         | cumin
-                | to taste: salt, black pepper, cayenne
+to taste        | salt, black pepper, cayenne
 1 cup           | green bell peppers, chopped
 2 cups          | fresh tomatoes, chopped
 1/2             | lemon, juice of
