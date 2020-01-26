@@ -1,0 +1,15 @@
+metadata:
+  name: asciiedit01
+projects:
+  - name: someproject
+    source:
+      location: 'https://github.com/sttyerase/Great-Recipes.git'
+      type: git
+      branch: new_recipes
+    clonePath: projects/
+components:
+  - id: ms-vscode/vscode-github-pullrequest/latest
+    type: chePlugin
+  - id: joaompinto/vscode-asciidoctor/latest
+    type: chePlugin
+apiVersion: 1.0.0
