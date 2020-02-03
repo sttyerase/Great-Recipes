@@ -7,7 +7,7 @@ projects:
       type: git
       location: 'https://github.com/sttyerase/Great-Recipes.git'
       branch: new_recipes
-    clonePath: /projects/
+    clonePath: projects/
 components:
   - id: ms-vscode/vscode-github-pullrequest/latest
     type: chePlugin
