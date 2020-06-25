@@ -14,6 +14,6 @@ Quantity        |    Ingredient
 1 stick         | butter
 
 ##### Preparation:
-Preheat oven to 350 degrees.
+Preheat oven to 350&deg;.
 
 Mix ingredients together.  Pour into greased casserole.  Bake 40-45 min.
