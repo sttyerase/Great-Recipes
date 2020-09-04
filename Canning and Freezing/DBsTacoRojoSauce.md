@@ -33,4 +33,4 @@ and lemon juice just prior to canning the sauce.  Bring the sauce back to simmer
 Process the sauce in a water bath canner for at least 10 minutes.  Remove jars and
 allow to cool slowly.
 
-Makes approx. 6 - 8 pints of sauce.
+Makes approx. 8 - 10 pints of sauce.
