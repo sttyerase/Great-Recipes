@@ -15,7 +15,7 @@ Quantity        |    Ingredient
 ##### Preparation:
 
 1. Combine dry ingredients in a bowl
-2. Beat together egg and oil
+2. In a separate bowl, beat together egg and oil
 3. Add milk to the egg and oil and mix thoroughly
 4. Mix in dry ingredients until just moistened, lumps are ok
 5. Drop onto a moderately hot griddle.  Turn when bubbly on top.
