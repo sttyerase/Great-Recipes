@@ -5,7 +5,7 @@
 
 Quantity        |    Ingredient
 --------------- | -------------------------------------
-1 cup           | all-purpose flower, sifted
+1 cup           | all-purpose flour, sifted
 2 tblsp.        | sugar
 2 tblsp.        | baking powder
 1               | egg, beaten
