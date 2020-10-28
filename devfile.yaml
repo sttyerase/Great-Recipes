@@ -13,3 +13,6 @@ components:
     type: chePlugin
   - id: joaompinto/vscode-asciidoctor/latest
     type: chePlugin
+  - type: dockerimage
+    image: docker.io/dbmidocker/jekyll-poc:latest
+    alias: myjekyll
