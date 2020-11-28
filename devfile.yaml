@@ -17,3 +17,4 @@ components:
     image: docker.io/dbmidocker/jekyll-poc:latest
     alias: myjekyll
     memoryLimit: 1Gi
+    mountSources: true
