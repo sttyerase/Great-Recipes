@@ -25,3 +25,6 @@ Combine shortening, sugar, egg and milk.  Sift together flour and baking powder 
 mix.  Split mixture between 2 1-1/2 qt. casseroles or 2 loaf pans.  Mix fruit ingredients and 
 pour over batter in casseroles or pans.  Bake at 350 degrees until cake rises to the top and is lightly 
 browned.  Test with a toothpick.
+
+Note: Mom adapted this recipe from Grandma Brokaw's original recipe which called for ingredients such as
+"butter the size of a walnut".
