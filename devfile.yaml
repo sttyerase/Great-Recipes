@@ -8,3 +8,6 @@ projects:
         origin: 'https://github.com/sttyerase/Great-Recipes.git'
       checkoutFrom:
         revision: main
+components:
+  - id: ms-vscode/vscode-github-pullrequest/latest
+    type: chePlugin
