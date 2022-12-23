@@ -25,6 +25,6 @@ may be easier to mix with clean hands.  Once thoroughly mixed, put the entire do
 to chill.
 
 Heat oven to 375&deg;.  Place the rack in the middle of the oven, not too close to the bottom. Cookies
-tend to burn underneath.  Form into approx. 2" balls and roll in granulated sugar.  Bake 9 min. until
+tend to burn underneath.  Form into approx. 2" balls and roll in granulated sugar.  Bake 7 min. until
 lots of cracks on top, but not completely spread out flat.  Keep dough chilled in refrigerator between batches.
 
