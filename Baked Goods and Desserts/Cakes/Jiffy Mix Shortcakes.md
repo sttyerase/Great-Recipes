@@ -3,12 +3,12 @@
 
 ##### Ingredients:
 
-Quantity            |    Ingredient
-------------------- | -------------------------------------
-2 cups              | Jiffy baking mix
-2 tbsp.             | sugar
-3 tbsp.             | melted shortening
-1/2 cup             | milk
+|Quantity            |    Ingredient|
+|------------------- | -------------------------------------|
+|2 cups              | Jiffy baking mix|
+|2 tbsp.             | sugar|
+|3 tbsp.             | melted shortening|
+|1/2 cup             | milk|
 
 ##### Preparation:
 
