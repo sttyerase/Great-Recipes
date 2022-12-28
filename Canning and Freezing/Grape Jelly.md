@@ -1,12 +1,12 @@
 ## Grape Jelly
 
 ##### Ingredients:
-Quantity          |    Ingredient
------------------ | -------------------------------------
-2 pints (4 cups)  | grape juice
-3 tbsp. (1 pkt.)  | low sugar pectin 
-1/4 cup           | lemon or lime juice
-1-1/4 cup         | granulated sugar
+| Quantity         |    Ingredient|
+|------------------| -------------------------------------|
+ | 2 pints (4 cups) | grape juice|
+ | 3 tbsp. (1 pkt.) | low sugar pectin |
+ | 1/4 cup          | lemon or lime juice|
+ | 1-1/4 cup        | granulated sugar|
 
 ##### Preparation:
 Stir grape juice together with sugar, pectin, and citrus juice and bring to a boil over high heat. Cook until the 

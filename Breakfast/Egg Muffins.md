@@ -3,13 +3,13 @@
 
 ##### Ingredients:
 
-Quantity        |    Ingredient
---------------- | -------------------------------------
-6               | eggs
-dash            | salt and pepper
-1 cup           | bacon cooked and crumbles
-1 cup           | shredded cheddar cheese
-1/2 cup         | chopped spinach or other fresh vegetables
+| Quantity |    Ingredient|
+|----------| -------------------------------------|
+| 6        | eggs|
+| dash     | salt and pepper|
+| 1 cup    | bacon cooked and crumbles|
+| 1 cup    | shredded cheddar cheese|
+| 1/2 cup  | chopped spinach or other fresh vegetables|
 
 ##### Preparation:
 Spray a muffin tin with no-stick spray.  Beat eggs together. Add salt and

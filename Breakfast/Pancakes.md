@@ -3,14 +3,14 @@
 
 ##### Ingredients:
 
-Quantity        |    Ingredient
---------------- | -------------------------------------
-1 cup           | all-purpose flour, sifted
-2 tblsp.        | sugar
-2 tblsp.        | baking powder
-1               | egg, beaten
-2 tblsp.        | salad oil
-1 cup           | milk
+| Quantity       |    Ingredient|
+|----------------| -------------------------------------|
+| 1 cup          | all-purpose flour, sifted|
+| 2 tblsp.       | sugar|
+| 2 tblsp.       | baking powder|
+| 1              | egg, beaten|
+| 2 tblsp.       | salad oil|
+| 1 cup          | milk|
 
 ##### Preparation:
 

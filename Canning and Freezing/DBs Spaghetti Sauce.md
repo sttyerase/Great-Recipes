@@ -2,22 +2,22 @@
 ## DB's Spaghetti Sauce
 
 ##### Ingredients:
-Quantity        |    Ingredient
---------------- | -------------------------------------
-5 qt.           | tomatoes cleaned and cut into chunks
-3 Tblsp         | garlic powder
---------------- | -------------------------------------
-3-4 small       | onions chopped
-1/2 tsp.        | crushed red peppers
-2 Tblsp         | vegetable oil
-1/2 Tblsp       | paprika
---------------- | -------------------------------------
-1/2 cup         | sugar
-1 Tblsp         | salt
-1 tsp           | dried crushed sweet basil
-1 tsp           | dried crushed oregano
-2 Tblsp         | lemon juice
-2 12 oz cans    | tomato paste
+| Quantity         |    Ingredient|
+|------------------| -------------------------------------|
+| 5 qt.            | tomatoes cleaned and cut into chunks|
+| 3 Tblsp          | garlic powder|
+| ---------------  | -------------------------------------|
+| 3-4 small        | onions chopped|
+|  1/2 tsp.        | crushed red peppers|
+ |  2 Tblsp         | vegetable oil|
+ |  1/2 Tblsp       | paprika|
+ |  --------------- | -------------------------------------|
+ |  1/2 cup         | sugar|
+ |  1 Tblsp         | salt|
+ |  1 tsp           | dried crushed sweet basil|
+ |  1 tsp           | dried crushed oregano|
+ |  2 Tblsp         | lemon juice|
+ |  2 12 oz cans    | tomato paste|
 
 ##### Preparation:
 
