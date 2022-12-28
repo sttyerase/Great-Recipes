@@ -3,19 +3,19 @@
 
 ##### Ingredients:
 
-Quantity            |    Ingredient
-------------------- | -------------------------------------
-Dry Ingredients:    |
-2-1/2 cups          | unbleached flour
-2 tsp.              | baking soda
-2 tsp.              | cinnamon
-1/2 tsp.            | salt
-1 tblsp. + 2 tsp.   | powdered ginger
-Wet Ingredients:    |
-3/4 cup             | butter
-1 cup               | brown sugar
-1/4 cup             | molasses
-1                   | egg
+|Quantity            |    Ingredient|
+|------------------- | -------------------------------------|
+|Dry Ingredients:    ||
+|2-1/2 cups          | unbleached flour|
+|2 tsp.              | baking soda|
+|2 tsp.              | cinnamon|
+|1/2 tsp.            | salt|
+|1 tblsp. + 2 tsp.   | powdered ginger|
+|Wet Ingredients:    ||
+|3/4 cup             | butter|
+|1 cup               | brown sugar|
+|1/4 cup             | molasses|
+|1                   | egg|
 
 ##### Preparation:
 In a medium bowl mix thoroughly all dry ingredients.  In a large bowl, cream together butter and sugar.

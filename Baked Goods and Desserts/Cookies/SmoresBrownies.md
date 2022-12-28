@@ -2,20 +2,20 @@
 ## S'mores Cakey Black Bean Brownies*
 
 ##### Ingredients:
-Quantity        |    Ingredient
---------------- | -------------------------------------
-15 oz. can      | black beans, rinsed and drained
-3 large         | eggs
-1/4 cup         | vegetable oil
-1 tsp.          | vanilla
-3/4 cup         | granulated sugar
-1/2 cup         | white whole wheat flour
-1/2 tsp.        | baking powder
-1/4 cup         | cocoa powder
-pinch           | kosher salt
-3/4 cup         | chocolate chips, divided
-4               | graham crackers, chopped
-1 cup           | mini marshmallows
+|Quantity        |    Ingredient|
+|--------------- | -------------------------------------|
+|15 oz. can      | black beans, rinsed and drained|
+|3 large         | eggs|
+|1/4 cup         | vegetable oil|
+|1 tsp.          | vanilla|
+|3/4 cup         | granulated sugar|
+|1/2 cup         | white whole wheat flour|
+|1/2 tsp.        | baking powder|
+|1/4 cup         | cocoa powder|
+|pinch           | kosher salt|
+|3/4 cup         | chocolate chips, divided|
+|4               | graham crackers, chopped|
+|1 cup           | mini marshmallows|
 
 ##### Preparation:
 

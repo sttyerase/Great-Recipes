@@ -3,19 +3,19 @@
 
 ##### Ingredients:
 
-Quantity            |    Ingredient
-------------------- | -------------------------------------
-1 bag               | Reese's Peanut Butter Cups (miniatures)
-1/2 cup             | shortening
-1/2 cup             | creamy peanut butter
-1/2 cup             | white sugar
-1/2 cup             | brown sugar
-1                   | egg
-2 tblsp.            | milk
-1 tsp.              | vanilla
-1-3/4 cup           | flour
-1 tsp.              | baking soda
-1/2 tsp.            | salt
+| Quantity  |    Ingredient|
+|-----------| -------------------------------------|
+| 1 bag     | Reese's Peanut Butter Cups (miniatures)|
+| 1/2 cup   | shortening|
+| 1/2 cup   | creamy peanut butter|
+| 1/2 cup   | white sugar|
+| 1/2 cup   | brown sugar|
+| 1         | egg|
+| 2 tblsp.  | milk|
+| 1 tsp.    | vanilla|
+| 1-3/4 cup | flour|
+| 1 tsp.    | baking soda|
+| 1/2 tsp.  | salt|
 
 ##### Preparation:
 
