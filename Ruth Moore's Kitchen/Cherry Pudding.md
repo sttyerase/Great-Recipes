@@ -3,21 +3,21 @@
 
 ##### Cake:
 
-Quantity        |    Ingredient
---------------- | -------------------------------------
-1/4 cup         | shortening
-1 cup           | sugar
-1               | egg
-1 cup           | milk
-2-1/4 cups      | flour sifted
-3 T             | baking powder
+| Quantity       |    Ingredient|
+|----------------| -------------------------------------|
+ | 1/4 cup        | shortening|
+ | 1 cup          | sugar|
+ | 1              | egg|
+ | 1 cup          | milk|
+ | 2-1/4 cups     | flour sifted|
+ | 3 T            | baking powder|
 ##### Fruit:
-Quantity        |   Ingredient
---------------- |--------------------------------------
-2 cups          | sour cherries
-1 cup           | sugar
-1-1/2 T         | butter
-2 cups          | boiling water or juice from fruit   
+| Quantity       |   Ingredient|
+|----------------|--------------------------------------|
+ | 2 cups         | sour cherries|
+ | 1 cup          | sugar|
+ | 1-1/2 T        | butter|
+ | 2 cups         | boiling water or juice from fruit   |
 
 Preheat oven to 350 degrees.
 

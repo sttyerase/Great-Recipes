@@ -3,16 +3,16 @@
 
 ##### Ingredients:
 
-Quantity            |    Ingredient
-------------------- | -------------------------------------
-1/2 cup             | butter
-1 cup               | sugar
-2                   | eggs
-1-1/2 tsp.          | vanilla extract
-1 cup               | sifted flour
-1/4 tsp.            | salt
-1-1/2 oz.           | unsweetened chocolate, melted
-1/2 cup             | chopped pecans
+| Quantity           |    Ingredient|
+|--------------------| -------------------------------------|
+ | 1/2 cup            | butter|
+ | 1 cup              | sugar|
+ | 2                  | eggs|
+ | 1-1/2 tsp.         | vanilla extract|
+ | 1 cup              | sifted flour|
+ | 1/4 tsp.           | salt|
+ | 1-1/2 oz.          | unsweetened chocolate, melted|
+ | 1/2 cup            | chopped pecans|
 
 ##### Preparation:
 Cream butter and sugar until fluffy.  Add eggs and vanilla and beat thoroughly.
