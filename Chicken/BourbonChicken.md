@@ -3,15 +3,15 @@
 
 ##### Ingredients:
 
-Quantity        |    Ingredient
---------------- | -------------------------------------
-4               | skinless, boneless chicken breast halves
-1 tsp.          | ground ginger
-4 oz.           | soy sauce
-2 tblsp.        | dried minced onion
-1/2 cup         | packed brown sugar
-3/8 cup         | bourbon
-1/2 tsp.        | garlic powder
+| Quantity       |    Ingredient|
+|----------------| -------------------------------------|
+ | 4              | skinless, boneless chicken breast halves|
+ | 1 tsp.         | ground ginger|
+ | 4 oz.          | soy sauce|
+ | 2 tblsp.       | dried minced onion|
+ | 1/2 cup        | packed brown sugar|
+ | 3/8 cup        | bourbon|
+ | 1/2 tsp.       | garlic powder|
 
 
 ##### Preparation:

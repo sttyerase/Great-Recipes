@@ -4,16 +4,16 @@
 ### Mary Gundlach's recipe
 
 ##### Ingredients:
-Quantity        |    Ingredient
---------------- | -------------------------------------
-1 2-lb. bag     | frozen hash brown potatoes, thawed
-1/2 cup         | butter, melted
-1 tsp           | salt
-1/4 tsp         | ground black pepper
-1/2 cup         | chopped onions
-1 8-oz. can     | cream of chicken or mushroom soup
-1 pint          | sour cream
-1 10-oz. pkg.   | Kraft Extra Sharp Cracker Barrel cheese, grated
+| Quantity       |    Ingredient|
+|----------------| -------------------------------------|
+ | 1 2-lb. bag    | frozen hash brown potatoes, thawed|
+ | 1/2 cup        | butter, melted|
+ | 1 tsp          | salt|
+ | 1/4 tsp        | ground black pepper|
+ | 1/2 cup        | chopped onions|
+ | 1 8-oz. can    | cream of chicken or mushroom soup|
+ | 1 pint         | sour cream|
+ | 1 10-oz. pkg.  | Kraft Extra Sharp Cracker Barrel cheese, grated|
 topping ingredients
 1-1/2 cups      | crushed corn flake cereal
 1/4 cup         | butter, melted (optional)

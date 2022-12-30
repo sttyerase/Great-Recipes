@@ -2,11 +2,11 @@
 
 ##### Ingredients:
 
-Quantity           |   Ingredient
------------------- | -------------------------------------
-1-20oz. container  | chicken livers (drained)
-2 cups             | flour
-4 Tblsp.           | garlic powder
+| Quantity          |   Ingredient|
+|-------------------| -------------------------------------|
+ | 1-20oz. container | chicken livers (drained)|
+ | 2 cups            | flour|
+ | 4 Tblsp.          | garlic powder|
 
 ##### Directions:
 

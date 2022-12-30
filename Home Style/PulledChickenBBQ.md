@@ -2,14 +2,14 @@
 ## Crockpot BBQ Chicken
 
 ##### Ingredients:
-Quantity        |    Ingredient
---------------- | -------------------------------------
-3 lbs. (5-6)    | boneless,skinless chicken breasts, trimmed of fat
-1-1/2 cups      | BBQ sauce (I use Montgomery Inn)
-1/2 medium      | onion
-1 Tblsp         | olive oil
-1 Tblsp         | Worchestershire sauce
-2 Tblsp         | brown sugar
+| Quantity       |    Ingredient|
+|----------------| -------------------------------------|
+ | 3 lbs. (5-6)   | boneless,skinless chicken breasts, trimmed of fat|
+ | 1-1/2 cups     | BBQ sauce (I use Montgomery Inn)|
+ | 1/2 medium     | onion|
+ | 1 Tblsp        | olive oil|
+ | 1 Tblsp        | Worchestershire sauce|
+ | 2 Tblsp        | brown sugar|
 
 
 ##### Preparation:
