@@ -21,3 +21,4 @@ and cook for 1-2 minutes or until pink and opaque.  Transfer the shrimp to a bow
 ice water to stop the cooking process.  Drain the shrimp and pat dry.
 
 Place all the ingredients in a bowl and toss gently to coat.
+Keep in refrigerator for up to two days.
