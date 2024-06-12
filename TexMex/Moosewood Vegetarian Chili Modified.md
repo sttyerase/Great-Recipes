@@ -9,7 +9,7 @@
 | 1 tsp          | salt|
 | 1 cup          | tomato juice|
 | 1 cup          | cracked wheat (bulgar)|
-| 2 tsp          | olive olive|
+| 2 tsp          | olive oil|
 | 4              | garlic cloves, crushed|
 | 1-1/2 cups     | chopped onion|
 | 1 cup          | carrots, chopped|
