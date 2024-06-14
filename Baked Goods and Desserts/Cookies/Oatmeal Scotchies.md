@@ -1,5 +1,5 @@
 
-## Oatmeal Scotchies (Modified)
+## Oatmeal Scotchies* (Modified)
 
 ##### Ingredients:
 
