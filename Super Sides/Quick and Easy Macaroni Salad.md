@@ -11,6 +11,7 @@
 | 1 cup    | Miracle Whip                   |
 | 1 Tblsp. | yellow mustard (optional)      |
 | 1/2 tsp. | garlic powder                  |
+| 1/2 cup  | chopped sweet pickles          |
 |          | salt                           |
 |          | pepper                         |
 
