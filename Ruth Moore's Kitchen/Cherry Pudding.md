@@ -1,7 +1,7 @@
 
 ## Cherry Pudding
 
-##### Cake:
+##### Cake Ingredients:
 
 | Quantity       |    Ingredient|
 |----------------| -------------------------------------|
@@ -11,13 +11,17 @@
  | 1 cup          | milk|
  | 2-1/4 cups     | flour sifted|
  | 3 T            | baking powder|
-##### Fruit:
+
+##### Fruit Ingredients:
+
 | Quantity       |   Ingredient|
 |----------------|--------------------------------------|
  | 2 cups         | sour cherries|
  | 1 cup          | sugar|
  | 1-1/2 T        | butter|
  | 2 cups         | boiling water or juice from fruit   |
+
+##### Preparation:
 
 Preheat oven to 350 degrees.
 
