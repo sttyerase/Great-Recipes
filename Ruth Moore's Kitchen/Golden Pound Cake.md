@@ -2,15 +2,15 @@
 
 ##### Ingredients:
 
-Quantity        |    Ingredient
---------------- | -------------------------------------
-1 cup           | shortening
-1-2/3 cup       | sugar
-5               | eggs
-1-1/2 Tblsp.    | lemon juice
-1-1/2 tsp.      | almond extract
-2 cups          | cake flour
-1/2 tsp.        | salt
+| Quantity     | Ingredient     |
+|--------------|----------------|
+| 1 cup        | shortening     |
+| 1-2/3 cup    | sugar          |
+| 5            | eggs           |
+| 1-1/2 Tblsp. | lemon juice    |
+| 1-1/2 tsp.   | almond extract |
+| 2 cups       | cake flour     |
+| 1/2 tsp.     | salt           |
 
 ##### Preparation:
 Thoroughly cream shortening and sugar.  Add eggs, one at a time.  Beat well after each addition.

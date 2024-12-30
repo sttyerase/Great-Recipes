@@ -3,17 +3,17 @@
 
 ##### Ingredients:
 
-Quantity            |    Ingredient
-------------------- | -------------------------------------
-3/4 cup             | Hershey's Cocoa
-1/2 tsp.            | baking soda
-2/3 cup             | vegetable oil
-1/2 cup (precisely) | boiling water
-2 cups              | sugar
-2                   | eggs
-1-1/3 cups          | unsifted all-purpose flour
-1 tsp.              | vanilla extract
-1/4 tsp.            | salt
+| Quantity            | Ingredient                 |
+|---------------------|----------------------------|
+| 3/4 cup             | Hershey's Cocoa            |
+| 1/2 tsp.            | baking soda                |
+| 2/3 cup             | vegetable oil              |
+| 1/2 cup (precisely) | boiling water              |
+| 2 cups              | sugar                      |
+| 2                   | eggs                       |
+| 1-1/3 cups          | unsifted all-purpose flour |
+| 1 tsp.              | vanilla extract            |
+| 1/4 tsp.            | salt                       |
 
 ##### Preparation:
 * Stir cocoa and baking soda in mixing bowl.

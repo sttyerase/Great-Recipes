@@ -14,12 +14,12 @@
 
 ##### Fruit Ingredients:
 
-| Quantity       |   Ingredient|
-|----------------|--------------------------------------|
- | 2 cups         | sour cherries|
- | 1 cup          | sugar|
- | 1-1/2 T        | butter|
- | 2 cups         | boiling water or juice from fruit   |
+| Quantity | Ingredient                        |
+|----------|-----------------------------------|
+ | 2 cups   | sour cherries                     |
+ | 1 cup    | sugar                             |
+ | 1-1/2 T  | butter                            |
+ | 2 cups   | boiling water or juice from fruit |
 
 ##### Preparation:
 
