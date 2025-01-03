@@ -7,7 +7,7 @@
 |----------| -------------------------------------|
 | 6        | eggs|
 | dash     | salt and pepper|
-| 1 cup    | bacon cooked and crumbles|
+| 1 cup    | bacon cooked and crumbled|
 | 1 cup    | shredded cheddar cheese|
 | 1/2 cup  | chopped spinach or other fresh vegetables|
 
