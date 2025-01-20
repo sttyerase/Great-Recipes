@@ -3,22 +3,22 @@
 
 ##### Ingredients:
 
-|Quantity            |    Ingredient|
-|------------------- | -------------------------------------|
-|Crust:              | |
-|1 cup               | Gold Medal all-purpose flour|
-|1/2 tsp.            | salt|
-|1/3 cup + 1 tblspn. | shortening|
-|2 to 3 tblspn.      | cold water|
-|Filling:            ||
-|2/3 cup             | sugar|
-|1/3 cup             | butter or margarine melted|
-|1 cup               | corn syrup|
-|2 tblspn.           | Kentucky bourbon (optional)|
-|1/2 tsp.            | salt|
-|3                   | eggs|
-|1 cup               | pecan halves or pieces|
-|1 6 oz. bag         | chocolate semi-sweet morsels|
+| Quantity            | Ingredient                   |
+|---------------------|------------------------------|
+| Crust:              |                              |
+| 1 cup               | Gold Medal all-purpose flour |
+| 1/2 tsp.            | salt                         |
+| 1/3 cup + 1 tblspn. | shortening                   |
+| 2 to 3 tblspn.      | cold water                   |
+| Filling:            |                              |
+| 2/3 cup             | sugar                        |
+| 1/3 cup             | butter or margarine melted   |
+| 1 cup               | corn syrup                   |
+| 2 tblspn.           | Kentucky bourbon (optional)  |
+| 1/2 tsp.            | salt                         |
+| 3                   | eggs                         |
+| 1 cup               | pecan halves or pieces       |
+| 1 6 oz. bag         | chocolate semi-sweet morsels |
 
 ##### Preparation:
 

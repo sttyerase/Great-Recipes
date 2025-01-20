@@ -1,5 +1,5 @@
 
-## Grape Juice - Kay's Recipe
+## Grape Juice - Kay Pearson's Recipe
 
 Equal parts of grapes and water.  Boil 15 min.  Process through a food mill for juice.
 Strain the juice through a fine cloth. 

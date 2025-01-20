@@ -3,14 +3,14 @@
 
 ##### Ingredients:
 
-|Quantity            |    Ingredient|
-|------------------- | -------------------------------------|
-|1/2 cup             | shortening|
-|3/4 cup             | sugar|
-|2                   | eggs|
-|2 cups              | Jiffy baking mix|
-|1 cup               | mashed ripe bananas (2 t0 3 medium)|
-|1/3 cup             | chopped nuts|
+| Quantity | Ingredient                          |
+|----------|-------------------------------------|
+| 1/2 cup  | shortening                          |
+| 3/4 cup  | sugar                               |
+| 2        | eggs                                |
+| 2 cups   | Jiffy baking mix                    |
+| 1 cup    | mashed ripe bananas (2 t0 3 medium) |
+| 1/3 cup  | chopped nuts                        |
 
 ##### Preparation:
 Preheat oven to 350&deg;.

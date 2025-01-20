@@ -3,13 +3,13 @@
 
 ##### Ingredients:
 
-| Quantity |    Ingredient|
-|----------| ---------------------------|
-| 2 cups   | frozen pie cherries, thawed|
-| 1 cup    | sugar|
-| 2 Tblsp  | corn starch|
-| 1 Tblsp  | lemon juice|
-|  2       | pie crusts|
+| Quantity | Ingredient                  |
+|----------|-----------------------------|
+| 2 cups   | frozen pie cherries, thawed |
+| 1 cup    | sugar                       |
+| 2 Tblsp  | corn starch                 |
+| 1 Tblsp  | lemon juice                 |
+| 2        | pie crusts                  |
 
 ##### Preparation:
 
