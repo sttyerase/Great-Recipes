@@ -3,11 +3,11 @@
 
 ##### Ingredients:
 
-|Quantity            |    Ingredient|
-|------------------- | -------------------------------------|
-|1 - 12 oz. pkg.     | butterscotch morsels|
-|2 cups              | chow mein noodles|
-|1 cup               | peanuts|
+| Quantity        | Ingredient           |
+|-----------------|----------------------|
+| 1 - 12 oz. pkg. | butterscotch morsels |
+| 2 cups          | chow mein noodles    |
+| 1 cup           | peanuts              |
 
 ##### Preparation:
 

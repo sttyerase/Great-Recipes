@@ -3,13 +3,13 @@
 
 ##### Ingredients:
 
-|Quantity            |    Ingredient|
-|------------------- | -------------------------------------|
-|2 21 oz. cans       | apple pie filling|
-|1                   | spice cake mix|
-|1 tsp.              | cinnamon|
-|1 cup               | chopped pecans|
-|2 sticks            | margarine, melted|
+| Quantity      | Ingredient        |
+|---------------|-------------------|
+| 2 21 oz. cans | apple pie filling |
+| 1             | spice cake mix    |
+| 1 tsp.        | cinnamon          |
+| 1 cup         | chopped pecans    |
+| 2 sticks      | margarine, melted |
 
 ##### Preparation:
 Place ingredients in 13" x 9" baking pan in the following order:

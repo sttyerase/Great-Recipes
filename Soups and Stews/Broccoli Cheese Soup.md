@@ -3,17 +3,17 @@
 ## Excellent Broccoli Cheese Soup*
 
 ##### Ingredients:
-Quantity        |    Ingredient
---------------- | -------------------------------------
-3/4 cup         | butter
-3/4 cup         | all-purpose flour
-9 cups          | chicken stock
-9 cups          | milk
-1 tsp.          | salt
-1-1/2 tsp.      | white pepper
-5 cups          | fresh broccoli florets
-1-1/2 lbs.      | processed cheese, shredded
-3 cups          | cheddar cheese, shredded**
+| Quantity   | Ingredient                 |
+|------------|----------------------------|
+| 3/4 cup    | butter                     |
+| 3/4 cup    | all-purpose flour          |
+| 9 cups     | chicken stock              |
+| 9 cups     | milk                       |
+| 1 tsp.     | salt                       |
+| 1-1/2 tsp. | white pepper               |
+| 5 cups     | fresh broccoli florets     |
+| 1-1/2 lbs. | processed cheese, shredded |
+| 3 cups     | cheddar cheese, shredded** |
 
 ##### Preparation:
 Melt the butter in a large pot over medium heat, and mix in the flour.  Reduce

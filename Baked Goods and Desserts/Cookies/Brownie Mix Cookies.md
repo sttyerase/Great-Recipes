@@ -2,13 +2,13 @@
 
 ##### Ingredients:
 
-|Quantity            | Ingredients                |
-|------------------- |----------------------------|
-| 1 18.3 oz. box     | Fudge Brownie mix          |
-| 1/2 cup            | shortening                 |
-| 1                  | large egg                  |
-| 1 cup              | semi-sweet chocolate chips |
-|                    | flaky salt (optional)      |
+| Quantity       | Ingredients                |
+|----------------|----------------------------|
+| 1 18.3 oz. box | Fudge Brownie mix          |
+| 1/2 cup        | shortening                 |
+| 1              | large egg                  |
+| 1 cup          | semi-sweet chocolate chips |
+|                | flaky salt (optional)      |
 
 ##### Preparation:
 
