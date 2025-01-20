@@ -3,14 +3,14 @@
 
 ##### Ingredients:
 
-| Quantity  | Ingredient            |
-|-----------|-----------------------|
-| 1 cup     | Parmesan cheese       |
-| 1 cup     | grated Swiss cheese   |
+| Quantity   | Ingredient            |
+|------------|-----------------------|
+| 1 cup      | Parmesan cheese       |
+| 1 cup      | grated Swiss cheese   |
 | 1-1/2 cups | chopped Vidalia onion |
-| 1 cup     | mayonnaise            |
-| 2         | garlic cloves, minced |
-| 1 tsp.    | sirrachia             |
+| 1 cup      | mayonnaise            |
+| 2          | garlic cloves, minced |
+| 1 tsp.     | sirrachia             |
 
 ##### Preparation:
 
