@@ -2,15 +2,15 @@
 
 ##### Ingredients:
 
-|Quantity       |    Ingredient|
-|-------------- | ------------------------------------- |
-|4              | tomatoes, peeled and sliced |
-|10             | fresh basil leaves |
-|1/2 cup        | chopped green onion |
-|1              | 9-inch pre-baked pie shell |
-|1 cup          | grated cheddar |
-|1 cup          | mayonnaise |
-|               | salt and pepper |
+| Quantity | Ingredient                  |
+|----------|-----------------------------|
+| 4        | tomatoes, peeled and sliced |
+| 10       | fresh basil leaves          |
+| 1/2 cup  | chopped green onion         |
+| 1        | 9-inch pre-baked pie shell  |
+| 1 cup    | grated cheddar              |
+| 1 cup    | mayonnaise                  |
+|          | salt and pepper             |
 
 ##### Preparation:
 Preheat oven to 350&deg; F. 

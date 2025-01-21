@@ -2,16 +2,16 @@
 ## Uncle Dan's Southwestern Wraps
 
 ##### Ingredients:
-| Quantity | Ingredient                          |
-|----------|-------------------------------------|
-| 8 oz.    | grated sharp cheddar cheese         |
-| 1 can    | black chili beans, well drained     |
-| 4 tblsp. | olive oil                           |
-| 1/2 tsp. | cumin                               |
-| 1/4 cup  | finely chopped cilantro             |
-| 1/2 cup  | chopped onion                       |
-| 1 pint   | Uncle Dan's Chili-Wonder Taco Sauce |
-| 1 pkg.   | medium-size tortillas               |
+| Quantity | Ingredient                      |
+|----------|---------------------------------|
+| 8 oz.    | grated sharp cheddar cheese     |
+| 1 can    | black chili beans, well drained |
+| 4 tblsp. | olive oil                       |
+| 1/2 tsp. | cumin                           |
+| 1/4 cup  | finely chopped cilantro         |
+| 1/2 cup  | chopped onion                   |
+| 1 pint   | DB's Taco Rojo Sauce            |
+| 1 pkg.   | medium-size tortillas           |
 
 ##### Preparation:
 

@@ -3,14 +3,14 @@
 ## Mrs. Marzella's Wedding Soup
 
 ##### Ingredients:
-|Quantity        |    Ingredient                        |
-|--------------- | -------------------------------------|
-|1               | roasting chicken                     |
-|1 lb.           | ground chuck
-|                | onion
-|                | garlic
-|                | salt & pepper to taste
-|1 package       | frozen spinach                       |
+| Quantity  | Ingredient             |
+|-----------|------------------------|
+| 1         | roasting chicken       |
+| 1 lb.     | ground chuck           |
+|           | onion                  |
+|           | garlic                 |
+|           | salt & pepper to taste |
+| 1 package | frozen spinach         |
 
 ##### Preparation:
 Put chicken in 6-8 qt. pan.  Add water to cover chicken.  Add onion, salt and pepper. Cook until

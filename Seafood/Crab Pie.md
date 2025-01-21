@@ -2,19 +2,19 @@
 ## Crab Pie*
 
 ##### Ingredients:
-|Quantity        |    Ingredient|
-|--------------- | -------------------------------------|
-|1 lb            | crabmeat|
-|4               | eggs|
-|2 Tblsp.        | flour|
-|1 cup           | mayonnaise|
-|1 cup           | milk|
-|8 oz.           | shredded cheddar cheese|
-|8 oz.           | shredded swiss cheese|
-|1 Tblsp.        | minced onion|
-|1 Tblsp.        | minced green pepper|
-|2 tsp.          | pimentos|
-|2               | 9" deep dish pie shells
+| Quantity | Ingredient              |
+|----------|-------------------------|
+| 1 lb     | crabmeat                |
+| 4        | eggs                    |
+| 2 Tblsp. | flour                   |
+| 1 cup    | mayonnaise              |
+| 1 cup    | milk                    |
+| 8 oz.    | shredded cheddar cheese |
+| 8 oz.    | shredded swiss cheese   |
+| 1 Tblsp. | minced onion            |
+| 1 Tblsp. | minced green pepper     |
+| 2 tsp.   | pimentos                |
+| 2        | 9" deep dish pie shells |
 
 ##### Preparation:
 Combine eggs, flour, mayonaise and milk in a bowl and mix well. Stir in the rest of the ingredients (being

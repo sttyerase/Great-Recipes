@@ -2,17 +2,16 @@
 
 ##### Ingredients:
 
-Quantity        |    Ingredient
---------------- | -------------------------------------
-7 cups          | broccoli cut in pieces
-1               | small onion
-8 pieces        | cooked bacon
-1/2 cup         | raisins
-1/2 cup         | sunflower seeds
-1/2 cup         | light mayonaisse or Miracle Whip
-1/4 cup         | sugar
-2 Tblsp         | vinegar
-
+| Quantity | Ingredient                       |
+|----------|----------------------------------|
+| 7 cups   | broccoli cut in pieces           |
+| 1        | small onion                      |
+| 8 pieces | cooked bacon                     |
+| 1/2 cup  | raisins                          |
+| 1/2 cup  | sunflower seeds                  |
+| 1/2 cup  | light mayonaisse or Miracle Whip |
+| 1/4 cup  | sugar                            |
+| 2 Tblsp  | vinegar                          |
 
 ##### Preparation:
 Mix broccoli, onion and raisins in a big bowl.  In a separate bowl, mix the

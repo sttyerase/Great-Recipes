@@ -2,16 +2,16 @@
 ## Seared Scallops and Spinach
 
 ##### Ingredients:
-| Quantity         | Ingredient                               |
-|------------------|------------------------------------------|
-| 12 large         | scallops and/or shrimp (1 to 1-1/4 lbs.) |
-| 1 tblsp          | olive oil                                |
-| 1 tblsp          | butter                                   |
-| 1 tsp.           | garlic powder                            |
-|                  | salt and pepper to taste                 |
-|1/4 cup           | ponzu sauce                              |
-| 1 to 2 tsp.      | sesame seeds                             |
-| 1 lb.            | fresh spinach                            |
+| Quantity    | Ingredient                               |
+|-------------|------------------------------------------|
+| 12 large    | scallops and/or shrimp (1 to 1-1/4 lbs.) |
+| 1 tblsp     | olive oil                                |
+| 1 tblsp     | butter                                   |
+| 1 tsp.      | garlic powder                            |
+|             | salt and pepper to taste                 |
+| 1/4 cup     | ponzu sauce                              |
+| 1 to 2 tsp. | sesame seeds                             |
+| 1 lb.       | fresh spinach                            |
 
 ##### Preparation:
 In a large cast iron pan, or other frying pan, heat oil and butter to medium high heat.

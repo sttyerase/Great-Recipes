@@ -2,11 +2,11 @@
 
 ##### Ingredients:
 
-Quantity        |    Ingredient
---------------- | -------------------------------------
-4 large         | baking potatoes
-2-3 Tblsp.      | olive oil
-1 Tblsp.        | seasoned salt or lemon pepper
+| Quantity   | Ingredient                    |
+|------------|-------------------------------|
+| 4 large    | baking potatoes               |
+| 2-3 Tblsp. | olive oil                     |
+| 1 Tblsp.   | seasoned salt or lemon pepper |
 
 ##### Preparation:
 - Preheat the oven to 375&deg;.

@@ -2,14 +2,14 @@
 
 ##### Ingredients:
 
-Quantity        |    Ingredient
---------------- | -------------------------------------
-2-1/2 lbs.      | red potatoes
-1/2 cup         | salted butter
-1/2 cup         | milk
-1/3 cup         | sour cream
-1/2 tsp.        | garlic powder
-1/2 tsp.        | salt
+| Quantity   | Ingredient    |
+|------------|---------------|
+| 2-1/2 lbs. | red potatoes  |
+| 1/2 cup    | salted butter |
+| 1/2 cup    | milk          |
+| 1/3 cup    | sour cream    |
+| 1/2 tsp.   | garlic powder |
+| 1/2 tsp.   | salt          |
 
 ##### Preparation:
 Cut up potatoes into small to medium chunks. Place in pot and cover with water.  Bring

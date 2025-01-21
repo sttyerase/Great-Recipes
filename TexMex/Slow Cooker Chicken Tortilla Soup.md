@@ -2,21 +2,21 @@
 ## Slow Cooker Chicken Tortilla Soup
 
 ##### Ingredients:
-| Quantity       |    Ingredient|
-|----------------| -------------------------------------|
-| 1-1/2 lbs.     | boneless skinless chicken breasts or thighs|
-| 1 small        | yellow onion
-| 1 15-oz. can   | black beans drained and rinsed|
-| 1-1/2 cups     | fresh or frozen defrosted kernel corn
-| 1 15-oz. can   | diced tomatoes
-| 1 15-oz. can   | diced fire roasted tomatoes with green chilis (Rotel)|
-| 1 tsp.         | ground cumin|
-| 1 tsp.         | granulated garlic powder|
-| 1 tsp.         | smoked paprika|
-| 1/2 tsp.       | mild chili powder|
-| 1 tsp.         | kosher salt|
-| 3 cups         | chicken stock|
-| 2 Tblsp.       | lime juice|
+| Quantity     | Ingredient                                            |
+|--------------|-------------------------------------------------------|
+| 1-1/2 lbs.   | boneless skinless chicken breasts or thighs           |
+| 1 small      | yellow onion                                          |
+| 1 15-oz. can | black beans drained and rinsed                        |
+| 1-1/2 cups   | fresh or frozen defrosted kernel corn                 |
+| 1 15-oz. can | diced tomatoes                                        |
+| 1 15-oz. can | diced fire roasted tomatoes with green chilis (Rotel) |
+| 1 tsp.       | ground cumin                                          |
+| 1 tsp.       | granulated garlic powder                              |
+| 1 tsp.       | smoked paprika                                        |
+| 1/2 tsp.     | mild chili powder                                     |
+| 1 tsp.       | kosher salt                                           |
+| 3 cups       | chicken stock                                         |
+| 2 Tblsp.     | lime juice                                            |
 
 ##### Preparation:
 To a 6-quart slow cooker, add the chicken, onion, beans, corn, diced tomatoes, fire-roasted

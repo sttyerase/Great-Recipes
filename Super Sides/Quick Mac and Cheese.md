@@ -2,15 +2,15 @@
 
 ##### Ingredients:
 
-Quantity        |    Ingredient
---------------- | -------------------------------------
-1 lb.           | mini shells pasta
-2 cups          | milk
-1 Tblsp.        | butter
-2 cups          | shredded cheddar (or cheddar-jack)
-8 oz.           | Velveeta, diced
-1 tsp.          | fresh ground pepper
-1/2 tsp         | salt
+| Quantity | Ingredient                         |
+|----------|------------------------------------|
+| 1 lb.    | mini shells pasta                  |
+| 2 cups   | milk                               |
+| 1 Tblsp. | butter                             |
+| 2 cups   | shredded cheddar (or cheddar-jack) |
+| 8 oz.    | Velveeta, diced                    |
+| 1 tsp.   | fresh ground pepper                |
+| 1/2 tsp  | salt                               |
 
 ##### Preparation:
 Cook pasta according to package directions.
