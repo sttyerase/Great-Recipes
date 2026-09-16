@@ -19,17 +19,20 @@
  | 2 Tblsp         | lemon juice                           |
  | 2 12 oz cans    | tomato paste                          |
  | 1               | jalepeno peppers to taste             |
+ | 1 Tblsp.        | corn starch                           |
 
 ##### Preparation:
 
-Cook tomates, garlic and chili powder together, bringing to a simmering boil.  Process
-cooked tomates through a food mill for the juice.
+Cook tomatoes, garlic and chili powder together, bringing to a simmering boil.  Process
+cooked tomatoes through a food mill for the juice.
 
 Sauté onion, red pepper oil and paprika mixture until onions are tender.  Add mixture
 to juice.
 
 Add sugar, salt and cumin to juice and continue to simmer 4-5 hours.  Add tomato paste
-and lemon juice just prior to canning the sauce.  Bring the sauce back to simmering boil.
+and lemon juice just prior to canning the sauce.  Make a slurry with the cornstarch and 
+add the mixture to the sauce.  Bring the sauce back to simmering boil.
+
 Process the sauce in a water bath canner for at least 10 minutes.  Remove jars and
 allow to cool slowly.
 
