@@ -5,7 +5,7 @@
 | Quantity       | Ingredients                |
 |----------------|----------------------------|
 | 1 18.3 oz. box | Fudge Brownie mix          |
-| 1/2 cup        | shortening                 |
+| 1/2 cup        | shortening, melted         |
 | 1              | large egg                  |
 | 1 cup          | semi-sweet chocolate chips |
 |                | flaky salt (optional)      |
@@ -14,7 +14,7 @@
 
 Preheat oven to 340&deg;. Line 2 large baking sheets with parchment paper.
 
-In a medium bowl with hand mixer, beat together dry brownie mix, melted butter and egg. Fold
+In a medium bowl with hand mixer, beat together dry brownie mix, melted shortening and egg. Fold
 in chocolate chips.
 
 Place 1-1/2" balls of dough on baking sheets at least 1 inch apart.  Flatten slightly
